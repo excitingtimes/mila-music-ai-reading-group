@@ -14,7 +14,7 @@ tags:
 image: "episode-1-yusong-wu.png"
 author_picture: "yusong-wu.jpeg"
 illustration: "illustration-yusong-wu.png"
-youtubeId: "5D1L4Pqf1ZE"
+youtubeId: "Sp25x-Ko6o4"
 personal_website: "https://lukewys.github.io/"
 laboratory_website: "https://mila.quebec/en/person/aaron-courville/"
 scholar_profile: "https://scholar.google.com/citations?user=vIuUJ-IAAAAJ&hl=zh-CN"
